@@ -1,10 +1,8 @@
 ### Hi there 👋
 
+I am Suman, a fourth-year undergraduate student at IIT Kharagpur
+
 <!--
-**sumandutta8877/sumandutta8877** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Suman, a fourth-year undergraduate student at IIT Kharagpur
 
 [LinkedIn](https://www.linkedin.com/in/sumandutta-iitkgp/)
 - :book: I am pursuing a major in Mechanical Engineering and a minor in Computer Science.
 - 📫 How to reach me: 
   - Email - suman.dutta.8877@gmail.com
+  - DM on Facebook - [suman.dutta.8877](https://www.facebook.com/suman.dutta.8877)
