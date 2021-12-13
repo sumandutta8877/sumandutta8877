@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am Suman, a fourth-year undergraduate student at IIT Kharagpur
+
 [LinkedIn](https://www.linkedin.com/in/sumandutta-iitkgp/)
 - :book: I am pursuing a major in Mechanical Engineering and a minor in Computer Science.
 - 📫 How to reach me: 
