@@ -13,7 +13,7 @@
 ### About me 
 
 - :book: I am a fourth-year undergraduate student at IIT Kharagpur pursuing a major in Mechanical Engineering and a minor in Computer Science.
-- 📫 I am a Web Developer and Data Science enthusiast. I 🧡 cricket and music is life.
+- 🔭 I am a Web Developer and Data Science enthusiast. I 🧡 cricket and music is life.
 
 <hr>
 
