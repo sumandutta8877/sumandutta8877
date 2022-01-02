@@ -13,9 +13,7 @@
 ### About me 
 
 - :book: I am a fourth-year undergraduate student at IIT Kharagpur pursuing a major in Mechanical Engineering and a minor in Computer Science.
-- 📫 How to reach me: 
-  - Email - suman.dutta.8877@gmail.com
-  - DM on Facebook - [suman.dutta.8877](https://www.facebook.com/suman.dutta.8877)
+- 📫 I am a Web Developer and Data Science enthusiast. I 🧡 cricket and music is life.
 
 <hr>
 
